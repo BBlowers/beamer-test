@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/beamer-test/static/css/main.a617e044.chunk.css",
+    "main.js": "/beamer-test/static/js/main.b2731999.chunk.js",
+    "main.js.map": "/beamer-test/static/js/main.b2731999.chunk.js.map",
+    "runtime-main.js": "/beamer-test/static/js/runtime-main.3f6d8a4e.js",
+    "runtime-main.js.map": "/beamer-test/static/js/runtime-main.3f6d8a4e.js.map",
+    "static/js/2.1e7f0979.chunk.js": "/beamer-test/static/js/2.1e7f0979.chunk.js",
+    "static/js/2.1e7f0979.chunk.js.map": "/beamer-test/static/js/2.1e7f0979.chunk.js.map",
+    "static/js/3.652d4381.chunk.js": "/beamer-test/static/js/3.652d4381.chunk.js",
+    "static/js/3.652d4381.chunk.js.map": "/beamer-test/static/js/3.652d4381.chunk.js.map",
+    "index.html": "/beamer-test/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/beamer-test/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1e7f0979.chunk.js.LICENSE.txt": "/beamer-test/static/js/2.1e7f0979.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/beamer-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f6d8a4e.js",
+    "static/js/2.1e7f0979.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b2731999.chunk.js"
+  ]
+}
